@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;max-width:900px;margin:auto;padding:20px;line-height:1.5}
+nav{display:flex;gap:16px;padding:12px;background:#eef3ff;margin-bottom:20px}
+img{max-width:320px;height:auto}.aviso{padding:12px;background:#fff6d8;border-left:4px solid #e0a000}
+footer{margin-top:40px;border-top:1px solid #ccc;padding-top:12px;color:#555}
